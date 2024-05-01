@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Database_connection</string>
+    <drawable name="button_bg" />
+</resources>
